@@ -1,0 +1,14 @@
+body {
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+#screenContainer {
+    display: inline-block;
+    flex-grow: 1;
+    height: 100%;
+    width: 100%;
+}
