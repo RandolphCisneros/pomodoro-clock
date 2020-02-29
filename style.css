@@ -6,8 +6,21 @@ html {
     height: 100%;
 }
 
+.rowDiv {
+    height: 50%;
+    background-color: blue;
+    border: solid;
+    border-color: black;
+}
+
+form {
+    height: 100%;
+    font-size-adjust: inherit;
+}
+
 #screenContainer {
     display: inline-block;
+    background-color: red;
     flex-grow: 1;
     height: 100%;
     width: 100%;
